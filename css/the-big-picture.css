@@ -1,0 +1,21 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background-image: url("https://images.unsplash.com/photo-1560259979-e45719df036e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+p{
+  font-family: cursive;
+  color:#D9BAFF;}
+
+h1{
+font-family: fantasy;
+color:#BAE5FF;
+}
